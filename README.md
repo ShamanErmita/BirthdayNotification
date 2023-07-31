@@ -4,7 +4,7 @@
 
 ## Usage
   ```sh
-  python InstaPFP_Downloader.py
+  python BirthdayNotifier.py
   ```
   * **Change the path in the python file for the right one**
   * **Edit the reminder.data file and put the birthdays in this format: MêsDia Nome Apelido**
